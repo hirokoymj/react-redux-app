@@ -85,8 +85,8 @@ store.dispatch(editUser(userTwo.user.id, {firstname: 'Alice'}));
 const demoState = {
   users: [{
     id: 'poijasdfhwer',
-    firstName: 'Hiroko',
-    lastName: 'Yamaji',
-    email: 'test@test.com'
+    firstName: 'Smith',
+    lastName: 'Brown',
+    email: 'smith@test.com'
   }]
 };
